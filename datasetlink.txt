@@ -1,1 +1,0 @@
-https://www.kaggle.com/mrmorj/fraud-detection-in-electricity-and-gas-consumption?select=client_train.csv
